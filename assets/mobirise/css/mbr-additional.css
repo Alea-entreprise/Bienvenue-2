@@ -2507,7 +2507,7 @@ body {
 .cid-rRoQDzehPF {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/168961-13151320-1440x1080.jpg");
+  background-image: url("../../../assets/images/sans-titre-2000x1125.png");
 }
 .cid-rRoQDzehPF .mbr-section-btn > * {
   margin: 0;
@@ -2580,7 +2580,7 @@ body {
 .cid-rRoSfjAJot {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/bras-de-taraudage-370x529.jpg");
+  background-image: url("../../../assets/images/scratched-metal-texture-2000x1500.jpg");
 }
 .cid-rRoSfjAJot .mbr-section-btn > * {
   margin: 0;
@@ -2653,7 +2653,7 @@ body {
 .cid-rRoUOS5ozB {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/29530-9443220-1500x1500.jpg");
+  background-image: url("../../../assets/images/sans-titre-2000x1125.png");
 }
 .cid-rRoUOS5ozB .mbr-section-btn > * {
   margin: 0;
@@ -2799,7 +2799,7 @@ body {
 .cid-rRo9DPjS4l {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/168961-13151320-1440x1080.jpg");
+  background-image: url("../../../assets/images/sans-titre-2000x1125.png");
 }
 .cid-rRo9DPjS4l .mbr-section-btn > * {
   margin: 0;
@@ -4621,6 +4621,33 @@ body {
 .cid-rEcF2hpb3s .nav-link:hover,
 .cid-rEcF2hpb3s .dropdown-item:hover {
   color: #83016c !important;
+}
+.cid-rSleDvGPl2 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/sans-titre-2000x1125.png");
+}
+.cid-rSleDvGPl2 .title {
+  margin-bottom: 2rem;
+}
+.cid-rSleDvGPl2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSleDvGPl2 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rSleDvGPl2 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rSleDvGPl2 textarea.form-control {
+  min-height: 188px;
+}
+.cid-rSleDvGPl2 .mbr-section-subtitle B {
+  color: #ffffff;
+}
+.cid-rSleDvGPl2 LABEL {
+  color: #ffffff;
 }
 .cid-rQRXvnewao {
   padding-top: 30px;
